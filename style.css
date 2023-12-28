@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    
+}
+img{
+    width: 300px;
+    height:300px;
+    border-radius: 100%;
+    Margin:50px;
+}
+h1{
+    text-align: center;
+}
